@@ -1,4 +1,4 @@
-# Olá eu sou o Bruno Batista, apaixonado por programação e tecnologia!
+# Olá eu sou o Bruno, apaixonado por programação e tecnologia!
 
 - 💻 Atualmente busco uma vaga como programador
 - ✏️ Tenho uma boa noção: java, C++, Html e CSS
